@@ -1,10 +1,13 @@
+
+
+
 import java.awt.Point;
 import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Implementacao do Projecto5
- * @author Luis Costa n47082
+ * Implementacao do Projecto 5
+ * @author Luis Costa
  *
  */
 public class Hexify {
